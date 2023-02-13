@@ -1,5 +1,4 @@
 ---
-title: Welcome to TANK blog
-date: 2023-02-13
+title: Welcome to my blog
 ---
 
